@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Phil Busch"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Phil Busch"
+description              : "Software Craftsman"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Phil Busch"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Software Craftsman"
+  location         : "Milwaukee, Wisconsin"
+  email            : "phil.busch@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,8 +89,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
-  gitlab           :
+  github           : "philbob87"
+  gitlab           : "philbo87"
   google_plus      :
   keybase          :
   instagram        :
