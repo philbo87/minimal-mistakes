@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Software Craftsman"
   location         : "Milwaukee, Wisconsin"
   email            : "phil.busch@gmail.com"
