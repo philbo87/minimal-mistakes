@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Phil Busch"
+title                    : 
 title_separator          : "-"
 name                     : 
 description              : "Software Craftsman"
