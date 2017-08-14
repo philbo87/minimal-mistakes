@@ -4,7 +4,7 @@ permalink: /about/
 layout: single
 ---
 
-Hi, I'm Phil.
+## Hi, I'm Phil.
 
 Hi! My name is Phil Busch, and you’ve reached my small corner of the internet. Thanks for stopping by.
 
