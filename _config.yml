@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Phil Busch"
 title_separator          : "-"
-name                     : "Phil Busch"
+name                     : 
 description              : "Software Craftsman"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "philbob87"
+  github           : "philbo87"
   gitlab           : "philbo87"
   google_plus      :
   keybase          :
