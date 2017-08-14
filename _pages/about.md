@@ -1,1 +1,4 @@
-Woo
+---
+titile: About Me
+permalink: /about/
+---
