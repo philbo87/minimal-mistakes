@@ -1,7 +1,7 @@
 ---
 titile: About Me
 permalink: /about/
-layout: default
+layout: single
 ---
 
 Take a look at this awesome about page
