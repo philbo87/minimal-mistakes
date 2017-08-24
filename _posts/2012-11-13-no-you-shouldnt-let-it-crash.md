@@ -3,9 +3,9 @@ title: No, you shouldn't let it crash
 layout: single
 ---
 
-I recently read a blog post that suggested that software developers should let their software crash once in a while. The author of the post argued that letting software crash was a good thing. He used the following try-catch block to illustrate his point:
+I recently read a [blog post}(https://variadic.me/posts/2012-10-30-you-should-let-it-crash.html) that suggested that software developers should let their software crash once in a while. The author of the post argued that letting software crash was a good thing. He used the following try-catch block to illustrate his point:
 
-try
+`try
 {
      // stuff
 }
@@ -19,7 +19,7 @@ catch (Exception e)
      // I'm not sure what went wrong
      // but I don't want my application
      // to crash because of it
-}
+}`
 
 From the blog post:
 
