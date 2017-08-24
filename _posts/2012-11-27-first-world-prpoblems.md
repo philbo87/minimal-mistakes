@@ -1,5 +1,5 @@
 ---
-title: First world problems: I have 21,000 unread emails
+title: First world problems&#58; I have 21,000 unread emails
 layout: single
 ---
 
